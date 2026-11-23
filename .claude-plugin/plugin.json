@@ -1,0 +1,11 @@
+{
+  "name": "roles",
+  "version": "0.2.0",
+  "description": "A role card per Claude Code session: /role <name> gives a session .claude/roles/<name>.md, bound to its id, kept across resume and compaction, reloaded when the file changes",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Alexis Laporte"
+  },
+  "repository": "https://github.com/AlexisLaporte/claude-mod-roles"
+}

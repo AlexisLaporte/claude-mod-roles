@@ -1,0 +1,12 @@
+{
+  "name": "claude-mod-roles",
+  "owner": {
+    "name": "Alexis Laporte"
+  },
+  "plugins": [
+    {
+      "name": "roles",
+      "source": "./"
+    }
+  ]
+}
